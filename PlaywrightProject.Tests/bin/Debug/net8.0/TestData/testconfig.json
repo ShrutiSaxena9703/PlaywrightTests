@@ -1,9 +1,0 @@
-{
-  "baseUrl": "https://demoqa.com",
-  "users": {
-    "validUser": {
-      "userName": "testuser",
-      "password": "Test@123!"
-    }
-  }
-}
